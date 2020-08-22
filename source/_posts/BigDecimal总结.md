@@ -14,13 +14,13 @@
 
    其实在实际的生活中，我们可以看出这两个都是为 “0.1” 大小也是相同的，但是在程序中就不一样了。
 
-​      ![image-20200819092152998](C:\Technical\BigDecimal\image\image-20200819092152998.png)
+   <img src="https://i.loli.net/2020/08/22/Ihpijz8RmFrutqU.png" ></a>
 
 运行结果：
 
 ​      运行的结果与我们实际中的认知是完全不符合的。
 
-![image-20200819092821079](C:\Technical\BigDecimal\image\image-20200819092821079.png)
+<img src="https://i.loli.net/2020/08/22/EeFrjJYAWs3XtC2.png" ></a>
 
 BigDecimal  类型初始化总结
 
